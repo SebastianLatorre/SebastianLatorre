@@ -1,11 +1,11 @@
 # 👋 Hola, soy Sebastian Latorre Diaz  
 ### Machine Learning Engineer | Vision AI | Real-Time Telemetry | Full-Stack en formación
 
-🌎 Puerto Montt, Chile  
-📫 Contacto: sebastianlatorred@gmail.com
-🔗 LinkedIn: linkedin.com/in/sebastianlatorred
-🔗 Coursera: https://www.coursera.org/account-profile
-🔗 Credly (Badges): https://www.credly.com/users/sebastian-latorre/badges#credly
+- 🌎 Puerto Montt, Chile  
+- 📫 Contacto: sebastianlatorred@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/sebastianlatorred
+- 🔗 Coursera: https://www.coursera.org/account-profile
+- 🔗 Credly (Badges): https://www.credly.com/users/sebastian-latorre/badges#credly
 
 ---
 
