@@ -79,7 +79,6 @@ Me apasiona crear aplicaciones completas, desde el sensor o cámara → hasta el
 ---
 
 ## 🧪 Proyectos Destacados  
-*(cuando tengas repos subidos, los puedo agregar con badges, links y descripciones pro-level)*
 
 - 🔵 **Visión Artificial para la Salmonicultura** – Detección y monitoreo en video en tiempo real.  
 - 🌐 **App de Telemetría IoT en tiempo real** – Streaming + dashboards + alertas.  
