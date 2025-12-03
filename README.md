@@ -3,7 +3,7 @@
 
 - 🌎 Puerto Montt, Chile  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sebastianlatorred
-- 🔗 Coursera: https://www.coursera.org/account-profile
+- 🔗 Coursera: https://www.coursera.org/learner/sebastianlatorre
 - 🔗 Credly (Badges): https://www.credly.com/users/sebastian-latorre/badges#credly
 
 ---
