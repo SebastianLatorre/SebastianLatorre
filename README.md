@@ -71,9 +71,9 @@ Me apasiona crear aplicaciones completas, desde el sensor o cámara → hasta el
 ---
 
 ## 🏅 Certificaciones y Perfiles
-
-[![Coursera Profile](https://img.shields.io/badge/Coursera-Profile-blue?logo=coursera&style=for-the-badge)](https://www.coursera.org/account-profile)
-[![Credly Badges](https://img.shields.io/badge/Credly-Badges-orange?logo=credly&style=for-the-badge)](https://www.credly.com/users/sebastian-latorre/badges#credly)
+[![NVIDIA Certificate](https://img.shields.io/badge/NVIDIA-Certificate-lightgray?logo=nvidia&style=for-the-badge)](https://learn.nvidia.com/certificates?id=hDrqQS2bRdmJvi9qfEz8Lw)
+[![Coursera Profile](https://img.shields.io/badge/Coursera-Profile-blue?logo=coursera&style=for-the-badge)]([https://www.coursera.org/account-profile](https://www.coursera.org/learner/sebastianlatorre))
+[![Credly Badges](https://img.shields.io/badge/Credly-Badges-orange?logo=credly&style=for-the-badge)]([https://www.credly.com/users/sebastian-latorre/badges#credly](https://www.credly.com/users/sebastian-latorre/badges#credly))
 
 
 ---
