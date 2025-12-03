@@ -2,7 +2,7 @@
 ### Machine Learning Engineer | Vision AI | Real-Time Telemetry | Full-Stack en formación
 
 - 🌎 Puerto Montt, Chile  
-- 🔗 LinkedIn: linkedin.com/in/sebastianlatorred
+- 🔗 LinkedIn: https://www.linkedin.com/in/sebastianlatorred
 - 🔗 Coursera: https://www.coursera.org/account-profile
 - 🔗 Credly (Badges): https://www.credly.com/users/sebastian-latorre/badges#credly
 
