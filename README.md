@@ -12,13 +12,15 @@
 ## 🧠 Sobre mí  
 Soy Ingeniero Civil Electrónico y Machine Learning Engineer con más de 7 años de experiencia liderando proyectos de:
 
+- **Innovación y Desarrollo (I+D)**
+- **Automatizacion Industrial**
+- **Supervisión de Proyetos Electricos y de Automatizacion Industial**
+- **Planificación de Mantenimiento Industial**
 - **Visión Artificial (Computer vision)**
 - **Machine Learning aplicado**
 - **Deep Learning**
 - **Telemetría en tiempo real**
 - **Desarrollo de aplicaciones interactivas (Streamlit)**
-- **Contenedorización con Docker**
-- **Soluciones en la nube (AWS)**
 
 Co-fundador de **Patagonia Control®**, donde desarrollo soluciones de IA y telemetría para la industria acuícola, integrando análisis de video, sensorización en tiempo real y dashboards de operación.
 
