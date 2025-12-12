@@ -5,6 +5,7 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/sebastianlatorred
 - 🔗 Coursera: https://www.coursera.org/learner/sebastianlatorre
 - 🔗 Credly (Badges): https://www.credly.com/users/sebastian-latorre/badges#credly
+- 💼 Portafolio Machine Learning: https://github.com/SebastianLatorre/MachineLearning-Portafolio
 
 ---
 
