@@ -89,26 +89,31 @@ Me apasiona crear aplicaciones completas, desde el sensor o cámara → hasta el
 
 ### 🚀 Proyectos Full-Stack Recientes
 
-
 #### 🗂️ Kanban Pro
 Aplicación Full-Stack para gestión de tareas con autenticación de usuarios y persistencia de datos.
-**Tech Stack:** React, Node.js, Express, MongoDB  
-🔗 Live Demo 
-🔗 Ver código en GitHub  
+**Tech Stack:** Node.js, Express, PostgreSQL, SupaBase, Sequelize, Handlebars, HTML, CSSS, JS, JWT, Bcryp.js, pnpm (PERN = PostgreSQL, Express, Render, Node)
+🔗 [Live Demo](https://ef-m8-proyecto-kanbanpro-kick-off-del.onrender.com/login)
+🔗 [Ver código en GitHub](https://github.com/SebastianLatorre/EF-M8-Proyecto-KanbanPro---Kick-off-del-Sprint-3-Fase-Final-/tree/main)  
 
 
 #### 🍽️ Buscador de Recetas
 Aplicación frontend que consume una API externa para buscar recetas dinámicamente.
-**Tech Stack:** React, API REST, CSS  
-🔗 Demo en vivo  
-🔗 Ver código en GitHub  
+**Tech Stack:** HTML, CSS, JS  
+🔗 [Demo en vivo](https://sebastianlatorre.github.io/EF-M3_Proyecto_Integrador_Sprint1/)  
+🔗 [Ver código en GitHub](https://github.com/SebastianLatorre/EF-M3_Proyecto_Integrador_Sprint1)
+
+#### e-PlantShopping
+Aplicacion para compra de plantas con carrito de compras
+**Tech Stack** HTML, CSS, JS, React
+🔗 [Demo en vivo]([https://sebastianlatorre.github.io/EF-M3_Proyecto_Integrador_Sprint1/](https://sebastianlatorre.github.io/e-plantShopping/))  
+🔗 [Ver código en GitHub]([https://github.com/SebastianLatorre/EF-M3_Proyecto_Integrador_Sprint1](https://github.com/SebastianLatorre/e-plantShopping))
 
 
 #### 🌐 Portfolio Web
 Landing page profesional que presenta mis proyectos y experiencia técnica.
-**Tech Stack:** HTML, CSS, React  
-🔗 [!Demo en vivo](https://ef-m8-proyecto-kanbanpro-kick-off-del.onrender.com/login)
-🔗 [!Ver código en GitHub](https://github.com/SebastianLatorre/EF-M8-Proyecto-KanbanPro---Kick-off-del-Sprint-3-Fase-Final-/tree/main)  
+**Tech Stack:** HTML, CSS, JS, React  
+🔗 [Demo en vivo]
+🔗 [Ver código en GitHub]
 
 ---
 
