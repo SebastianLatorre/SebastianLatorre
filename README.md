@@ -94,7 +94,6 @@ Aplicación Full-Stack para gestión de tareas con autenticación de usuarios y 
 **Tech Stack:** Node.js, Express, PostgreSQL, SupaBase, Sequelize, Handlebars, HTML, CSSS, JS, JWT, Bcryp.js, pnpm (PERN = PostgreSQL, Express, Render, Node)
 
 🔗 [Live Demo](https://ef-m8-proyecto-kanbanpro-kick-off-del.onrender.com/login)
-
 🔗 [Ver código en GitHub](https://github.com/SebastianLatorre/EF-M8-Proyecto-KanbanPro---Kick-off-del-Sprint-3-Fase-Final-/tree/main)  
 
 
@@ -114,8 +113,8 @@ Aplicacion para compra de plantas con carrito de compras
 #### 🌐 Portfolio Web
 Landing page profesional que presenta mis proyectos y experiencia técnica.
 **Tech Stack:** HTML, CSS, JS, React  
-🔗 [Demo en vivo]
-🔗 [Ver código en GitHub]
+🔗 Demo en vivo
+🔗 Ver código en GitHub
 
 ---
 
