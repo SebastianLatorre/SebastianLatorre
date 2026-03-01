@@ -93,7 +93,7 @@ Me apasiona crear aplicaciones completas, desde el sensor o cámara → hasta el
 #### 🗂️ Kanban Pro
 Aplicación Full-Stack para gestión de tareas con autenticación de usuarios y persistencia de datos.
 **Tech Stack:** React, Node.js, Express, MongoDB  
-🔗 Demo en vivo  
+🔗 Live Demo 
 🔗 Ver código en GitHub  
 
 
@@ -107,8 +107,8 @@ Aplicación frontend que consume una API externa para buscar recetas dinámicame
 #### 🌐 Portfolio Web
 Landing page profesional que presenta mis proyectos y experiencia técnica.
 **Tech Stack:** HTML, CSS, React  
-🔗 Demo en vivo  
-🔗 Ver código en GitHub  
+🔗 [!Demo en vivo](https://ef-m8-proyecto-kanbanpro-kick-off-del.onrender.com/login)
+🔗 [!Ver código en GitHub](https://github.com/SebastianLatorre/EF-M8-Proyecto-KanbanPro---Kick-off-del-Sprint-3-Fase-Final-/tree/main)  
 
 ---
 
