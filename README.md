@@ -85,7 +85,33 @@ Me apasiona crear aplicaciones completas, desde el sensor o cámara → hasta el
 - 🔵 **Visión Artificial para la Salmonicultura** – Detección y monitoreo en video en tiempo real.  
 - 🌐 **App de Telemetría IoT en tiempo real** – Streaming + dashboards + alertas.  
 - 🧠 **Modelos ML de clasificación y predicción** para procesos industriales.  
-- 🖥️ **Aplicaciones web interactivas** para análisis de datos y visualización avanzada.  
+- 🖥️ **Aplicaciones web interactivas** para análisis de datos y visualización avanzada.
+
+---
+
+### 🚀 Proyectos Full-Stack Recientes
+
+#### 🗂️ Kanban Pro
+Aplicación Full-Stack para gestión de tareas con autenticación de usuarios y persistencia de datos.
+**Tech Stack:** React, Node.js, Express, MongoDB  
+🔗 Demo en vivo  
+🔗 Ver código en GitHub  
+
+---
+
+#### 🍽️ Buscador de Recetas
+Aplicación frontend que consume una API externa para buscar recetas dinámicamente.
+**Tech Stack:** React, API REST, CSS  
+🔗 Demo en vivo  
+🔗 Ver código en GitHub  
+
+---
+
+#### 🌐 Portfolio Web
+Landing page profesional que presenta mis proyectos y experiencia técnica.
+**Tech Stack:** HTML, CSS, React  
+🔗 Demo en vivo  
+🔗 Ver código en GitHub  
 
 ---
 
