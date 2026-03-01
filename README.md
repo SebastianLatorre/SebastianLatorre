@@ -87,9 +87,8 @@ Me apasiona crear aplicaciones completas, desde el sensor o cámara → hasta el
 - 🧠 **Modelos ML de clasificación y predicción** para procesos industriales.  
 - 🖥️ **Aplicaciones web interactivas** para análisis de datos y visualización avanzada.
 
----
-
 ### 🚀 Proyectos Full-Stack Recientes
+
 
 #### 🗂️ Kanban Pro
 Aplicación Full-Stack para gestión de tareas con autenticación de usuarios y persistencia de datos.
@@ -97,7 +96,6 @@ Aplicación Full-Stack para gestión de tareas con autenticación de usuarios y 
 🔗 Demo en vivo  
 🔗 Ver código en GitHub  
 
----
 
 #### 🍽️ Buscador de Recetas
 Aplicación frontend que consume una API externa para buscar recetas dinámicamente.
@@ -105,7 +103,6 @@ Aplicación frontend que consume una API externa para buscar recetas dinámicame
 🔗 Demo en vivo  
 🔗 Ver código en GitHub  
 
----
 
 #### 🌐 Portfolio Web
 Landing page profesional que presenta mis proyectos y experiencia técnica.
