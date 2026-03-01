@@ -106,6 +106,7 @@ Aplicación frontend que consume una API externa para buscar recetas dinámicame
 #### e-PlantShopping
 Aplicacion para compra de plantas con carrito de compras
 **Tech Stack** HTML, CSS, JS, React
+
 🔗 [Demo en vivo](https://sebastianlatorre.github.io/e-plantShopping/)  
 🔗 [Ver código en GitHub](https://github.com/SebastianLatorre/e-plantShopping)
 
