@@ -92,6 +92,7 @@ Me apasiona crear aplicaciones completas, desde el sensor o cámara → hasta el
 #### 🗂️ Kanban Pro
 Aplicación Full-Stack para gestión de tareas con autenticación de usuarios y persistencia de datos.
 **Tech Stack:** Node.js, Express, PostgreSQL, SupaBase, Sequelize, Handlebars, HTML, CSSS, JS, JWT, Bcryp.js, pnpm (PERN = PostgreSQL, Express, Render, Node)
+
 🔗 [Demo en vivo](https://ef-m8-proyecto-kanbanpro-kick-off-del.onrender.com/login)  
 🔗 [Ver código en GitHub](https://github.com/SebastianLatorre/EF-M8-Proyecto-KanbanPro---Kick-off-del-Sprint-3-Fase-Final-/tree/main)
 
