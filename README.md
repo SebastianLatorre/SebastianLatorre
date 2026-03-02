@@ -114,8 +114,8 @@ Aplicacion para compra de plantas con carrito de compras
 #### 🌐 Portfolio Web
 Landing page profesional que presenta mis proyectos y experiencia técnica.
 **Tech Stack:** HTML, CSS, JS, React  
-🔗 Demo en vivo
-🔗 Ver código en GitHub
+🔗 [Demo en vivo](https://sebastianlatorre.github.io/EF-M9-Portafolio-Desarrollador-FullStack-JS/)
+🔗 [Ver código en GitHub](https://github.com/SebastianLatorre/EF-M9-Portafolio-Desarrollador-FullStack-JS)
 
 ---
 
